@@ -15,3 +15,7 @@ starfield.py
 [https://py2.codeskulptor.org/#user49_3vIgNhoRWQ_6.py](https://py2.codeskulptor.org/#user49_3vIgNhoRWQ_6.py)
 ![starfield](https://raw.githubusercontent.com/brooding-barrel/learning_python/main/binaries/starfield.gif)
 
+snake.py
+[https://py2.codeskulptor.org/#user49_x34bor7CmS_3.py](https://py2.codeskulptor.org/#user49_x34bor7CmS_3.py)
+![snake](https://raw.githubusercontent.com/brooding-barrel/learning_python/main/binaries/snake.gif)
+
